@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gille.romain@yahoo.fr
+	name = romain gille
